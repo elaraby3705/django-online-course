@@ -2,7 +2,7 @@
 
 > A Django-based online learning platform that enables course enrollment, multi-choice exams, and instant result evaluation.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Django](https://img.shields.io/badge/Django-3.x%2F4.x-green) ![License](https://img.shields.io/badge/License-MIT-gray)
+![Python](https://img.shields.io/badge/Python-3.8+-blue) ![Django](https://img.shields.io/badge/Django-3.x%2F4.x-green) ![License](https://img.shields.io/badge/License-Hammad-gray)
 
 ---
 
